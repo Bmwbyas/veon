@@ -1,7 +1,7 @@
 export const routes={
     main:'/main',
     aboutUs:'/about-us',
-    contacts:'/contact',
+    contacts:'/contacts',
     work:'/work',
     cases:'/cases',
     caseRentClub:'/cases/case',

@@ -9,10 +9,11 @@ import {AboutUs} from "./features/aboutUs/AboutUs";
 import {CurrentCase} from "./features/cases/currentCase/CurrentCase";
 import {Services} from "./features/services/Services";
 import {Bonuses} from "./features/bonuses/Bonuses";
-import {Contacts} from "./features/contacts/Contacts";
+
 import {Cases} from "./features/cases/Cases";
 import {GetInTorch} from "./common/components/getInTorch/GetInTorch";
 import {ScrollToTop} from "./common/components/ScrollToTop/ScrollToTop";
+import {Contacts} from "./features/contacts/Contacts";
 
 function App() {
   return (
